@@ -2,31 +2,25 @@
 
 This website was written and made interactive using the React.js framework. 
 
-The puprose of writing this website was to showcase an understanding and implementation of the react framework, and to give a more polished look to my portfolio. 
+The purpose of writing this website was to showcase an understanding and implementation of the react framework, and to give a more polished look to my portfolio. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MuMPRsSQ3rU)
 
 # Web Pages
-
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+The web page that i created is the portfolio webpage, it has the buttons to display the information of each project in the portfolio 
+and only displays the information if the user clicks on the button. 
 
 # Development Environment
 
-I wrote this program using the JavaScript language and the react framework on the VScode application on my mac computer. 
+I wrote this program using the JavaScript language and the react framework on the VScode application on my mac computer. i also had to download node.js and along with it npm to create the webapp. 
 
-{Describe the programming language that you used and any libraries.}
+I also wrote a little css code to go along with the page. 
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/REACT/react_getstarted.asp)
+* [freecodecamp](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Embed videos into each project card
+* Add contact info 
+* Make another page that shows my updated resume
